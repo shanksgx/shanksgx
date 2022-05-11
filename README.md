@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanksgx&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go,python,java&langs_count=8&layout=compact)](https://github.com/shanksgx/)
 
-💬 Ask me about gouuer@163.com
+💬 Ask me about goduer@163.com
