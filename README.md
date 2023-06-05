@@ -13,8 +13,6 @@
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="UnoCSS"
-    src="https://img.shields.io/badge/-UnoCSS-4d4d4d?style=flat-square&logo=unocss&logoColor=white" />
     <img alt="eslint" src="https://img.shields.io/badge/-eslint-4b31c2?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
